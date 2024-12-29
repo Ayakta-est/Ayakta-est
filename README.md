@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Desde muy joven he estado familiarizado con las nuevas tecnologías y poseo conocimientos sólidos en sistemas informáticos. Tengo experiencia práctica en la creación y mantenimiento de servidores de videojuegos, lo que me ha permitido desarrollar habilidades en configuración de redes, optimización del rendimiento y resolución de problemas.
 - Actualmente me encuentro estudiando para ser programador Full Stack en la Academia 4Geeks Academy.
 - Mi foco actual es aprender a usar de forma fluida JavaScript y React, intentando hacer proyectos básicos en los que recree páginas interactivas sencillas como una calculadora, un calendario o un reproductor de música.
-- Desde siempre he estado fascinado por cómo las máquinas pueden aprender y tomar decisiones. Mi objetivo es desarrollar proyectos que aprovechen el poder de la **inteligencia artificial** para el desarrollo digital como la Realidad aumentada; o para los videojuegos, para la creación de avatares inteligentes.
+- Desde siempre he estado fascinado por cómo las máquinas pueden aprender y tomar decisiones. Mi objetivo es desarrollar proyectos que aprovechen el poder de la **inteligencia artificial** para el desarrollo digital como la realidad aumentada; o para los videojuegos, para la creación de avatares inteligentes.
 
 Cómo contactarme: adrianhsilva@gmail.com
   
