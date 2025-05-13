@@ -27,3 +27,22 @@ Apasionado por el <strong>Frontend creativo</strong>, los <strong>juegos complej
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CCA676?logo=sqlalchemy&logoColor=white&style=flat)
+
+---
+
+## 💡 Intereses personales
+
+- 🎨 Diseño gráfico digital  
+- 🎲 Juegos de mesa y mecánicas lúdicas  
+- 🎮 Videojuegos clásicos y actuales  
+- 🧩 Aprender constantemente sobre nuevas herramientas creativas  
+- 🛠 Modelado 3D para hobby y futuros proyectos de impresión  
+
+---
+
+## 📫 Contáctame
+
+**✉️ Email:** adrianhsilva403@gmail.com  
+**📍 Madrid, España**  
+
+---
