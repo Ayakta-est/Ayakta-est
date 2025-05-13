@@ -9,10 +9,9 @@ Apasionado por el <strong>Frontend creativo</strong>, los <strong>juegos complej
 
 ## 🚀 Lo que estoy haciendo ahora
 
-- 🧠 Explorando formas de integrar **IA en proyectos creativos y lúdicos**.  
+- 🧠 Explorando formas de integrar **IA en proyectos creativos** para mejorar la experiencia del usuario y para facilitar la autonomía del servidor.  
 - 🎮 Diseñando y programando **juegos complejos** como desafío personal y profesional.  
 - 🎨 Enfocándome en el **Frontend**, buscando crear **diseños originales y usables**.  
-- 📚 Formándome constantemente, lo último que estoy aprendiendo fuera del código es **modelado 3D** para diseño e impresión futura a modo de hobby.  
 
 ---
 
